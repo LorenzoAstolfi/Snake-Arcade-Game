@@ -3,7 +3,7 @@
 
 ## How to play
 1. Make sure you have Python 3 installed on your computer.
-2. Download the folder `SnakeGame`.
+2. Download the repository `Snake-Arcade-Game`.
 3. Open a terminal or command prompt.
 4. Go to the folder where the file is saved.
 5. Run the game using this command: `py main.py`.
