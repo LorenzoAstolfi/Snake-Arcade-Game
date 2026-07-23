@@ -29,7 +29,6 @@ class Scoreboard(Turtle):
 
     def increase_score(self):
         self.score += 1
-        self.write(f"Score: {self.score}", align=ALIGNMENT, font=FONT)
 
     def update_file(self):
         with open("data.txt", "w") as data:
